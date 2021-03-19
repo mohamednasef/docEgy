@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.477" height="26.213" viewBox="0 0 27.477 26.213">
+  <g id="podium" transform="translate(-179.082 -9)">
+    <g id="Group_333" data-name="Group 333" transform="translate(193.017 9.548)">
+      <path id="Path_99" data-name="Path 99" d="M265.18,26.3l4.711-6.225c.466-.617.349-.976-.395-1.2L262.028,16.6l-4.468-6.4a1.28,1.28,0,0,0-.435-.43c2.125,2.827,3.491,7.221,3.491,12.152a22.039,22.039,0,0,1-2.57,10.751l6.259,2.164c.734.253,1.042.035,1.027-.743Z" transform="translate(-257.125 -9.777)" fill="#ff389f" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_332" data-name="Group 332" transform="translate(179.581 9.5)">
+      <path id="Path_98" data-name="Path 98" d="M201.072,26.074l4.711-6.225c.466-.617.349-.976-.395-1.2l-7.468-2.271-4.468-6.4c-.44-.637-.82-.637-1.265,0l-4.468,6.4-7.468,2.271c-.744.227-.86.587-.39,1.2l4.706,6.225-.147,7.8c-.015.779.288,1,1.022.743l7.377-2.549,7.377,2.549c.734.253,1.042.035,1.027-.743Z" transform="translate(-179.581 -9.5)" fill="none" stroke="#0c50b2" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
